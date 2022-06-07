@@ -1,10 +1,11 @@
-/* === Typing animation === */
+/* === Typing animation === 
 var typed = new Typed(".typing",{
     strings:["","Front-end Developer","Web Designer"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
 })
+*/
 
 /* === Scroll sections Active link === */
 //get all sections that have an id defined
