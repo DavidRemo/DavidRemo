@@ -868,12 +868,12 @@ h3.my-profession
         display: block;
         margin-left: 0;
     }
-    .home .home-img img
-    {
-        margin: auto;
-        border-radius: 5px;
-        width: 320px;
-    }
+    .home .home-img
+{
+    max-width: 80%;
+    text-align: center;
+    position: relative;
+}
 }
 @media (max-width:991px)
 {
