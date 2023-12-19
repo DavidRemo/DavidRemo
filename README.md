@@ -1,4 +1,4 @@
-### Hi ![image](https://github.com/DavidRemo/DavidRemo/assets/68180517/4c4fd77f-ca3b-4383-9762-e9672251b247) World ![image](https://github.com/DavidRemo/DavidRemo/assets/68180517/6f4ef2b6-78c5-4caa-8733-f8c4ad15e5fb)
+### Hello 👋 World 🌍
 
 I'm David Remo
 
