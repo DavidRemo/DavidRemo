@@ -13,4 +13,4 @@ Skills:
 * Data cleaning: using Microsoft Excel
 
 Checkout my Portfolio:
-(https://davidremo.github.io/DavidRemo/)
+([https://davidremo.github.io/DavidRemo/](https://davidremo.github.io/DavidRemo_TheAnalyst.github.io/))
